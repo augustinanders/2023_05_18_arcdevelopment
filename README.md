@@ -1,3 +1,7 @@
+This project is a learning exercise on [MUI](https://mui.com/material-ui/getting-started/overview/), following the course by [zreecespieces](https://github.com/zreecespieces).
+
+---
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
