@@ -1,10 +1,10 @@
-import Header from "@/ui/Header";
+import Header from "@/components/ui/Header";
 
 export default function Home() {
   return (
     <>
       <Header />
-      Hello, world!
+      <p>hello!</p>
     </>
   );
 }
